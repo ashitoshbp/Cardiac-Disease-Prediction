@@ -1,1 +1,1 @@
-web: gunicorn -b $POST app:app
+web: gunicorn -b $PORT app:app
