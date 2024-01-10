@@ -1,13 +1,9 @@
-﻿## <a name="heart-disease-prediction"></a>       **IT-307 MACHINE LEARNING END-SEM REPORT**
-**Base paper: An effective machine learning algorithm for  
-`                       `predicting risk of cardiac diseases.**
+**Cardiac Disease Predictor: An effective machine learning algorithm for predicting risk of cardiac diseases.**
 ---------------------------------------------------------------
 
-**NAME:  Ashitosh Phadatare                                              NAME:  Dhiraj Choudhary D**
+Ashitosh Phadatare and Dhiraj CD
 
-**ROLL.NO: 211AI007                                                              Roll.NO: 211AI016**
-
-## **Heart-Disease-Prediction**
+## **Cardiac Disease Predictor**
 ### <a name="overview"></a>**Overview**
 A simple web application which uses Machine Learning algorithm to predict the heart condition of a person by providing some inputs about the person health like age, gender, blood pressure, cholesterol level etc built using Flask.
 
@@ -15,15 +11,14 @@ A simple web application which uses Machine Learning algorithm to predict the he
 
 Input values Webpage:
 
-![](Aspose.Words.336d64dc-30dd-4d1d-bd5b-ff20eecd6cff.001.png)
+![input1](https://github.com/ashitoshbp/Cardiac-Disease-Prediction/assets/107021261/b95d52f8-1948-47b0-bd46-98ca3d103b7b)
 
-
-
-![](Aspose.Words.336d64dc-30dd-4d1d-bd5b-ff20eecd6cff.002.png)
+![input2](https://github.com/ashitoshbp/Cardiac-Disease-Prediction/assets/107021261/e8823724-9349-4d27-932c-2ebf0c0d9d20)
 
 *Result Webpage:*
 
-![](Aspose.Words.336d64dc-30dd-4d1d-bd5b-ff20eecd6cff.003.png)
+![output1](https://github.com/ashitoshbp/Cardiac-Disease-Prediction/assets/107021261/7850a1c7-10ea-47f3-87ed-181b9675fdbf)
+
 
 This Project is mainly divided into two parts:
 
